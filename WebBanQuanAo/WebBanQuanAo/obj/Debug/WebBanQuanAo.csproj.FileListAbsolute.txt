@@ -1,0 +1,164 @@
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\ApplicationInsights.config
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\roslyn\csc.exe
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\roslyn\System.Collections.Immutable.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\roslyn\vbc.exe
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\roslyn\VBCSCompiler.exe
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\roslyn\VBCSCompiler.exe.config
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\WebBanQuanAo.dll.config
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\WebBanQuanAo.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\WebBanQuanAo.pdb
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Antlr3.Runtime.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\EntityFramework.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\EntityFramework.SqlServer.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.DependencyCollector.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.Web.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.WindowsServer.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.ApplicationInsights.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Google.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Web.Infrastructure.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Newtonsoft.Json.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Owin.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Helpers.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Mvc.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Optimization.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Razor.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.WebPages.Deployment.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.WebPages.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.WebPages.Razor.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\WebGrease.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.DependencyCollector.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.Web.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.WindowsServer.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.ApplicationInsights.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Helpers.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Mvc.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Optimization.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Razor.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.WebPages.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.WebPages.Deployment.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\System.Web.WebPages.Razor.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Antlr3.Runtime.pdb
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Newtonsoft.Json.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\EntityFramework.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\EntityFramework.SqlServer.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Google.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\obj\Debug\WebBanQuanAo.csprojResolveAssemblyReference.cache
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\obj\Debug\WebBanQuanAo.dll
+E:\Thanh Tu\Kỳ 6\CN Web\TG_Shop\WebBanQuanAo\WebBanQuanAo\obj\Debug\WebBanQuanAo.pdb
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\ApplicationInsights.config
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\roslyn\csc.exe
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\roslyn\vbc.exe
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\roslyn\VBCSCompiler.exe
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\WebBanQuanAo.dll.config
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\WebBanQuanAo.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\WebBanQuanAo.pdb
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Antlr3.Runtime.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\EntityFramework.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\EntityFramework.SqlServer.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.Web.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Newtonsoft.Json.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Owin.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Helpers.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Mvc.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Optimization.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Razor.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.WebPages.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.WebPages.Razor.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\WebGrease.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.Web.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Helpers.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Mvc.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Optimization.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.Razor.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.WebPages.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\System.Web.WebPages.Razor.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Antlr3.Runtime.pdb
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Newtonsoft.Json.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\EntityFramework.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\EntityFramework.SqlServer.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\obj\Debug\WebBanQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\obj\Debug\WebBanQuanAo.dll
+C:\Users\GiangHTT\Desktop\WebBanQuanAo\WebBanQuanAo\WebBanQuanAo\obj\Debug\WebBanQuanAo.pdb
